@@ -41,7 +41,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,c,js,html,css,arduino&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,docker,kubernetes,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,docker,kubernetes,bash,aws&theme=dark" />
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,mongodb,vscode&theme=dark" />
 
@@ -163,7 +163,7 @@ Check back soon for updates!
 <div align="center">
 
 ### 💭 Dev Quote of the Day
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 <p style="color: #8B949E; font-size: 12px; margin-top: 20px;">
   <i>Thanks for visiting! Let's build something amazing together 🚀</i>
