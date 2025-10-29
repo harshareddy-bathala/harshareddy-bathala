@@ -3,7 +3,7 @@
 
 <!-- Animated Typing Effect -->
 <p>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B949E&background=0D111700&center=true&vCenter=true&multiline=false&width=435&height=50&lines=AI+Enthusiast+%7C+Python+Developer;DevOps+Engineer+%7C+IoT+Explorer;Building+Tomorrow's+Solutions"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B949E&background=0D111700&center=true&vCenter=true&multiline=false&width=435&height=50&lines=AI+Enthusiast+%7C+Python+Developer;DevOps+Engineer+%7C+Tech+Explorer;Building+Tomorrow's+Solutions"/>
 </p>
 
 <!-- Tagline -->
