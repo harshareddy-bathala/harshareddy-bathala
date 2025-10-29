@@ -1,9 +1,5 @@
+![harshareddy-bathala's GitHub Banner](https://raw.githubusercontent.com/harshareddy-bathala/harshareddy-bathala/main/banner.png)
 <div align="center">
-
-<!-- Name with elegant typography -->
-<h1 style="letter-spacing: 2px; margin-bottom: 5px;">
-  <b>Harshavardhan Reddy</b>
-</h1>
 
 <!-- Animated Typing Effect -->
 <p>
